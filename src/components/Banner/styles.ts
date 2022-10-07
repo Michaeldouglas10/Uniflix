@@ -9,7 +9,7 @@ export const Container = styled.div<IContainerProps>`
   height: 64.8rem;
 
   background: ${({ imageUrl }) =>
-    `linear-gradient(269.96deg,rgba(0, 0, 0, 0) 0.04%,rgba(0, 0, 0, 0.8) 20.5%), url(${imageUrl})`};
+    `linear-gradient(269.96deg,rgba(0, 0, 0, 0) 0.04%,rgba(0, 0, 0, 0.8) 99.5%), url(${imageUrl})`};
   background-size: cover;
   background-repeat: no-repeat;
 `;
